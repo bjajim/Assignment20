@@ -19,13 +19,13 @@ Below are the screenshots for the successful compiling, deployment and at work o
 ![Add account UI](screenshots/addaccount.png?raw=true "Add Owner Accounts")
 
 ## Balance Before Deposit ##
-![Balance Before Deposit](screenshots/BalanceBefore.png?raw=true "Balance Before Deposit")
+![Balance Before Deposit](screenshots/balancebefore.png?raw=true "Balance Before Deposit")
 
 ## Balance after deposit ##
-![Balance After Deposit](screenshots/BalanceAfter.png?raw=true "Balance After Deposit")
+![Balance After Deposit](screenshots/balanceafter.png?raw=true "Balance After Deposit")
 
 ## Withdraw ##
-![Withdraw](screenshots/Withdraw.png?raw=true "Withdraw")
+![Withdraw](screenshots/withdraw.png?raw=true "Withdraw")
 
 ## Last To Withdraw Details ##
 ![Last Withdraw Details](screenshots/LastWithdawDetails.png?raw=true "Last Withdraw Details")
